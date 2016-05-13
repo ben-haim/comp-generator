@@ -1,4 +1,4 @@
-# comp-generato
+# comp-generator
 Compliance generator number
 
 - git clone https://github.com/ychaim/comp-generator.git
